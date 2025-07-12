@@ -3,7 +3,7 @@
   <tbody>
     <tr>
       <td style="vertical-align: top; padding-right: 10px;" width="80">
-        <img src="https://github.com/lana425/LeJunCPA_gmail_signature/blob/main/LeJunCPA_LOGO.jpg?raw=true"
+        <img src="https://raw.githubusercontent.com/lana425/LeJunCPA_gmail_signature/main/LeJunCPA_LOGO.jpg"
              style="width: 80px; border-radius: 10%; display: block; margin: 0 auto;"
              width="80" />
       </td>
